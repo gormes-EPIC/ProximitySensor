@@ -25,7 +25,7 @@ If the object is closer than 10 cm, the red light turns on. If the object is bet
 
 ##### Wiring the Ultrasonic Distance Sensor
 
-![ultrasonic_wiring|400](https://github.com/user-attachments/assets/49899f6c-eca9-47e8-8909-8a74f9290103)
+![ultrasonic_wiriing](https://github.com/user-attachments/assets/49899f6c-eca9-47e8-8909-8a74f9290103)
 
 [Original Image Source](https://jawhersebai.com/tutorials/how-to-use-the-hy-srf05-ultrasonic-distance-sensor/)
 
