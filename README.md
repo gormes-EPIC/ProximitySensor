@@ -132,7 +132,11 @@ This will run your `distance.py` using `python3` on every reboot of the Pi.
 
 When you run your program, your project should perform like the following video and print the readings from the ultrasonic distance sensor to the terminal.
 
-![[https://github.com/user-attachments/assets/75422577-b82d-4005-b618-e8c20dae871f]]
+
+
+https://github.com/user-attachments/assets/3f20ec2f-afd3-433c-a50c-b20f96c6874f
+
+
 
 
 ## References
