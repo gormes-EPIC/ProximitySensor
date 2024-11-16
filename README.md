@@ -25,7 +25,7 @@ If the object is closer than 10 cm, the red light turns on. If the object is bet
 
 ##### Wiring the Ultrasonic Distance Sensor
 
-![ultrasonic_wiring](https://github.com/user-attachments/assets/49899f6c-eca9-47e8-8909-8a74f9290103)
+![ultrasonic_wiring|400](https://github.com/user-attachments/assets/49899f6c-eca9-47e8-8909-8a74f9290103)
 
 [Original Image Source](https://jawhersebai.com/tutorials/how-to-use-the-hy-srf05-ultrasonic-distance-sensor/)
 
@@ -41,7 +41,7 @@ Refer to [Adafruit](https://learn.adafruit.com/ultrasonic-sonar-distance-sensors
 
 #### Wiring the Stoplight
 
-![stoplight_wiring](https://github.com/user-attachments/assets/8d068f78-eaa5-4d9f-98a8-35fee5626145)
+![stoplight_wiring|400](https://github.com/user-attachments/assets/8d068f78-eaa5-4d9f-98a8-35fee5626145)
 
 [Original Image Source](https://wiki.keyestudio.com/KS0310_Keyestudio_Traffic_Light_Module_(Black_and_Eco-friendly))
 
